@@ -1,4 +1,4 @@
-# Image-segmentation-usinsg-modified-UNET
+# Image-segmentation-using-modified-UNET
 ### implemented this neural network with the help from youtube video of Alladin Persson : https://www.youtube.com/watch?v=IHq1t7NxS8k
 ### Since network has near about 31 million parameters it was difficult for me to train model on my local device.
 ### I will try to train it and upload it with the model file
